@@ -1,0 +1,10 @@
+h1, p {
+  font-family: Lato;
+
+}
+
+.title{
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+}
